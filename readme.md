@@ -4,6 +4,10 @@ Este proyecto es una **interfaz gráfica** en Python que permite calcular integr
 
 ---
 
+##Ejecutar Codigo
+Linux: en consola poner
+source bin/activate
+
 ## Características principales
 
 - Entrada de funciones en una sola caja de texto (con botones rápidos para insertar `π`, `√`, `^`, `e^x`, `sin(x)`, `cos(x)`, `tan(x)` y `log(x)`).
